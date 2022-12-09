@@ -13,4 +13,4 @@ Using React Class ComponentDidUpdate to update ComponentDidMount State
 
 ## Code
 - [Code-on-Replit](https://replit.com/@Biademade/Form-Change-Ui-ReactJS?v=1)
-- [Code-on-Github](https://github.com/Biadedigital/React-JS-Class-ComponentDidMount)
+- [Code-on-Github](https://github.com/Biadedigital/Form-Change-Ui-ReactJS)
